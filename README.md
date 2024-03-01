@@ -8,7 +8,16 @@
 
 * **Estilização Personalizada**: Pratique suas habilidades de CSS criando um layout atraente e responsivo para a página web.
 
+##  Tecnologias
+
+**Foi usado :**  `HTML` , `CSS  `, `JAVASCRIPT`
+
 ## Layout 
 
 ![Layout](https://github.com/AmandaLuizaFreitas/Firsthome/assets/110351770/9d77a177-23bf-4a96-8553-3ffb3e382ac5)
+## 🔗 Link
+ [Desktop](https://firsthome.vercel.app/)
+
+
+
 
